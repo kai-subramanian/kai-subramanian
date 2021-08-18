@@ -16,12 +16,12 @@
 
 # ⚡Side Projects
     - Created a ✨ personal portfolio ✨ for myself, using Bootstrap and deployed on GitHub.
-    - Built a resume builder which takes input and produces a HTML-based resume
-    - Wrote a simple kernel to print text, using C and a little bit of assembly. Tested using QEMU on Ubuntu 20.04LTS
-    - Built a Facial recognition app using Python and Keras & OpenCV as a guided project
-    - Predicted survival rate for the popular Titanic dataset on Kaggle  
+    - Built a resume builder which takes candidate details as input and produces a HTML-based resume.
+    - Wrote a simple kernel to print text, using C and a little bit of assembly. Tested using QEMU on Ubuntu 20.04LTS.
+    - Built a Facial recognition app using Python and Keras & OpenCV as a guided project.
+    - Predicted survival rate for the popular Titanic dataset on Kaggle.  
     - Built a CRUD virus databank using HTML, PHP and MySQL.
-    - Created an automated SMS sending bot using Python and Twilio API
+    - Created an automated SMS sending-bot using Python and Twilio API.
 
 # ⚡Paper Publications
 <a href="https://www.ijeast.com/papers/69-72,Tesma512,IJEAST.pdf"> A Scalar Based Routing Protocol Applied to Wireless Sensor Networks, IJEAST April 2021, Volume 5 Issue 12, Pg 69 to 72.</a>
