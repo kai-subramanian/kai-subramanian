@@ -13,7 +13,11 @@
     - Vim
     - Photoshop and Dreamweaver
     - Miscellaneous skills : Rooting an android phone, gaming, audio editing using Audacity.
-    
+
+# ⚡Internships
+
+***March 2021 to June 2021*** <br> Worked with Velammal College of Engineering and Technology to build a Hospital Information System for Velammal Hospital, Madurai. Responsible for collecting requirements, architecting the data flow,  crafting the database schema, coding the necessary frontend and backend modules for the nursing module. Handled the additional responsibility of integrating the modules of of other team members(Operation Theatre, Laboratory, Outpatirnt and Cathlab) under a unified homepage. <br><b>Tech stack utilised - HTML, CSS for frontend<br>PHP and Apache server for backend<br>MySQL for database</b>
+
 # ⚡Side Projects
     - Created a personal portfolio ✨ for myself, using Bootstrap
     - Built a resume builder which takes input and produces a HTML-based resume
@@ -22,11 +26,6 @@
     - Predicted survival rate for the popular Titanic dataset on Kaggle  
     - Built a CRUD virus databank using HTML, PHP and MySQL.
     - Created an automated SMS sending bot using Python and Twilio API
-
-# ⚡Internships
-
-***March 2021 to June 2021*** <br> Worked with Velammal College of Engineering and Technology to build a Hospital Information System for Velammal Hospital, Madurai. Responsible for collecting requirements, architecting the data flow,  crafting the database schema, coding the necessary frontend and backend modules for the nursing module. Handled the additional responsibility of integrating the modules of of other team members(Operation Theatre, Laboratory, Outpatirnt and Cathlab) under a unified homepage. <br><b>Tech stack utilised - HTML, CSS for frontend<br>PHP and Apache server for backend<br>MySQL for database</b>
-    
 
 # ⚡Paper Publications
 <a href="https://www.ijeast.com/papers/69-72,Tesma512,IJEAST.pdf"> A Scalar Based Routing Protocol Applied to Wireless Sensor Networks, IJEAST April 2021, Volume 5 Issue 12, Pg 69 to 72.</a>
