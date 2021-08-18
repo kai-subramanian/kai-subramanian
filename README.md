@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello ! Bonjour ! Vanakkam ! Namastey ! Konnichiwa ! Hola ! 
+
+You've reached Kailash Subramanian's GitHub page !
+
+<h2><b>More about me</b></h2>
+I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus.
