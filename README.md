@@ -6,20 +6,16 @@
     - Frameworks/Libraries : Pandas, SciKit-Learn, NumPy, Flask, OpenCV (Machine Learning); NodeJS, Bootstrap (Web development); Hadoop (Big Data Analytics)
     - Database : MySQL
     - Operating Systems : Windows and Linux
-    - IDEs : VS Code, Netbeans and IDLE
-    - C# 
-    - MongoDB & MS Access 
-    - MacOS
-    - Vim
-    - Photoshop and Dreamweaver
-    - Miscellaneous skills : Rooting an android phone, gaming, audio editing using Audacity.
+    - IDEs : VS Code, Netbeans and Atom 
+    - Photoshop and Dreamweaver 
+    - Miscellaneous skills : Rooting an android phone, gaming, audio editing using Audacity and SEO
 
 # ⚡Internships
 
-***March 2021 to June 2021*** <br> Worked with Velammal College of Engineering and Technology to build a Hospital Information System for Velammal Hospital, Madurai. Responsible for collecting requirements, architecting the data flow,  crafting the database schema, coding the necessary frontend and backend modules for the nursing module. Handled the additional responsibility of integrating the modules of of other team members(Operation Theatre, Laboratory, Outpatirnt and Cathlab) under a unified homepage. <br><b>Tech stack utilised - HTML, CSS for frontend<br>PHP and Apache server for backend<br>MySQL for database</b>
+***March 2021 to June 2021*** <br> Worked with Velammal College of Engineering and Technology to build a Hospital Information System for Velammal Hospital, Madurai. Responsible for collecting requirements, architecting the data flow,  crafting the database schema, coding the necessary frontend and backend modules for the Nursing module. Handled the additional responsibility of integrating the modules of of other team members(Operation Theatre, Laboratory, Outpatient and Cathlab) under a unified homepage. <br><b>Tech stack utilised - HTML, CSS for frontend<br>PHP and Apache server for backend<br>MySQL for database</b>
 
 # ⚡Side Projects
-    - Created a personal portfolio ✨ for myself, using Bootstrap
+    - Created a ✨ personal portfolio ✨ for myself, using Bootstrap and deployed on GitHub.
     - Built a resume builder which takes input and produces a HTML-based resume
     - Wrote a simple kernel to print text, using C and a little bit of assembly. Tested using QEMU on Ubuntu 20.04LTS
     - Built a Facial recognition app using Python and Keras & OpenCV as a guided project
