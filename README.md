@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**# H1 Hello There ! **
-**## H2 You've reached Kailash Subramanian's GitHub page. I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus.**
 
-# H1 ⚡Tech Skillset
+**# Hello There ! 
+<br>
+**## You've reached Kailash Subramanian's GitHub page. I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus.
 
-  ### H3 Well versed in 
+#⚡Tech Skillset
+
+  ### Well versed in 
     - Programming languages : Python, C/C++, Java, JS, PHP and R.
     - Frameworks/Libraries : Pandas, SciKit-Learn, NumPy, Flask, OpenCV (Machine Learning); NodeJS, Bootstrap (Web development); Hadoop (Big Data Analytics)
     - Database : MySQL
