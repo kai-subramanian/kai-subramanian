@@ -1,12 +1,15 @@
 # Hi there 👋 
-<h5>You've reached <b> Kailash Subramanian's </b> GitHub page. I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus.</h5>
+
+<h5>You've reached <b> Kailash Subramanian's </b> GitHub page. 
+    <br>I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus.</h5>
 
 # ⚡ Tech skillset
     - Programming languages : Java, Python, C++
     - Frameworks/Libraries : Pandas, SciKit-Learn, NumPy, Flask, OpenCV (Machine Learning); NodeJS, Bootstrap (Web development); Hadoop (Big Data Analytics)
     - Database : MySQL
     - Operating Systems : Windows and Linux
-    - IDEs : VS Code, Netbeans and Atom 
+    - IDEs : VS Code, PyCharm and Atom. 
+    - I am also comfortable with the occasional use of vim/gedit
     - Photoshop and Dreamweaver 
     - Miscellaneous skills : Rooting an android phone, gaming, audio editing using Audacity and SEO
 
