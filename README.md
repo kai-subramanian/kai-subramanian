@@ -2,7 +2,7 @@
 <h5>You've reached <b> Kailash Subramanian's </b> GitHub page. I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus.</h5>
 
 # ⚡ Tech skillset
-    - Programming languages : Python, C/C++, Java, JS, PHP and R.
+    - Programming languages : Java, Python, C++
     - Frameworks/Libraries : Pandas, SciKit-Learn, NumPy, Flask, OpenCV (Machine Learning); NodeJS, Bootstrap (Web development); Hadoop (Big Data Analytics)
     - Database : MySQL
     - Operating Systems : Windows and Linux
