@@ -42,7 +42,7 @@
 
 # ⚡Paper Publications
 
-<a href="https://ijarsct.co.in/jani1.html">A Survey-Based Approach to Study / Work from Home Opinions During Covid-19 Pandemic</a>
+<a href="https://ijarsct.co.in/jani1.html">A Survey-Based Approach to Study / Work from Home Opinions During Covid-19 Pandemic. DOI - 10.48175/IJARSCT-2461 </a>
 
 # ⚡More About Me
 
