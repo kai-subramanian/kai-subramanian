@@ -1,6 +1,6 @@
-# Hi there 👋 
+# Hi there ! This is Kailash Subramanian👋 
 
-<h5>You've reached <b> Kailash Subramanian's </b> GitHub page. 
+
     <br>I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus. CGPA - 9.2 </h5>
 
 # ⚡ Core Skills
