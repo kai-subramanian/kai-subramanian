@@ -16,13 +16,13 @@
     - Databases : MySQL, Microsoft Access
     - I am also comfortable with the occasional use of vim/gedit
     - Photoshop 
-    - Miscellaneous skills : A vast wealth of knowledge by reading tech articles / blogs, rooting an android phone, gaming, audio editing using Audacity and SEO
+    - Miscellaneous skills : A vast wealth of knowledge gained by reading tech articles / blogs, rooting an android phone, gaming, audio editing using Audacity and SEO
 
 # ⚡ Soft Skills
-    - Team Building 
     - Public Speaking
     - Quick Learner
     - Working with teams of various sizes.
+    - Individual contributer
 
 # ⚡Internship
 
