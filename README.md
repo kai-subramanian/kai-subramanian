@@ -21,8 +21,7 @@
 # ⚡ Soft Skills
     - Public Speaking
     - Quick Learner
-    - Working with teams of various sizes.
-    - Individual contributer
+    - Working with teams of various sizes, can also contribute individually.
 
 # ⚡Internship
 
