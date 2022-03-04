@@ -30,10 +30,7 @@
 # ⚡Side Projects
  
     - Built a NLP-based sentiment classifier using Twitter API, Bert Classifier and Python. Deployed using Streamlit.
-    - Created an automated SMS sending-bot using Python and Twilio API.
-    - Built a Facial recognition app using Python and Keras & OpenCV as a guided project.
-    - Predicted survival rate for the popular Titanic dataset on Kaggle.  
-    - Wrote a simple kernel to print text, using C and a little bit of assembly. Tested using QEMU on Ubuntu 20.04LTS.
+    - Created a Radiomics package for Cancer Detection through Image Processing, using Python. Extracted GLCM and Haralick Features from a dataset containing 10000 images.
     
 
 # ⚡Paper Publications
