@@ -32,13 +32,12 @@
 
 # ⚡Side Projects
  
-    - Built a resume builder which takes candidate details as input and produces a HTML-based resume.
-    - Wrote a simple kernel to print text, using C and a little bit of assembly. Tested using QEMU on Ubuntu 20.04LTS.
-    - Built a Facial recognition app using Python and Keras & OpenCV as a guided project.
-    - Predicted survival rate for the popular Titanic dataset on Kaggle.  
-    - Built a CRUD virus databank using HTML, PHP and MySQL.
     - Built a NLP-based sentiment classifier using Twitter API, Bert Classifier and Python. Deployed using Streamlit.
     - Created an automated SMS sending-bot using Python and Twilio API.
+    - Built a Facial recognition app using Python and Keras & OpenCV as a guided project.
+    - Predicted survival rate for the popular Titanic dataset on Kaggle.  
+    - Wrote a simple kernel to print text, using C and a little bit of assembly. Tested using QEMU on Ubuntu 20.04LTS.
+    
 
 # ⚡Paper Publications
 
