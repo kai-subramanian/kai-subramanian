@@ -2,7 +2,7 @@
 #### I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus. CGPA - 9.29
 
 # ⚡ Core Skills
-    - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language in less than a fortnight's time.
+    - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language quickly.
     - Computer Networks, Operating Systems, Databases, BASH terminal and Linux.
     - Theoretical aspects of Artificial Intelligence.
     - Software Management.
