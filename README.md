@@ -41,6 +41,10 @@
 
 <a href="https://ijarsct.co.in/jani1.html">A Survey-Based Approach to Study / Work from Home Opinions During Covid-19 Pandemic. DOI - 10.48175/IJARSCT-2461 </a>
 
+# ⚡ My Dream
+
+To build a gaming PC with all the respective top-tier, maxed-out components. (CPU, GPU, RAM, etc)
+
 # ⚡More About Me
 
 I am a passionate, ever curious developer.I have a pragmatic and unique way of looking at technological endeavours; I personally believe that coding is an art. I am looking for a job at a company where I can contribute my skills for the growth of the organisation, learn new things and enhance my career.
