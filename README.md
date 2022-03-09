@@ -3,24 +3,26 @@
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language in less than a fortnight's time.
-    - Computer Networks, Operating Systems, Databases, BASH terminal.
-    - Data Structures and Algorithms.
+    - Computer Networks, Operating Systems, Databases, BASH terminal and the Linux operating system.
     - Theoretical aspects of Artificial Intelligence.
+    - Wireless Sensor Networks
+    - Data Structures and Algorithms.
     - Good experience with version control, specially Git and GitHub.
     - Familiar with variety of domains / business verticals. 
     
 # ⚡ Tech skills
-    - Programming languages : Java, Python, C++
-    - Frameworks/Libraries : Pandas, SciKit-Learn, NumPy, Flask, OpenCV (Machine Learning); PHP, Bootstrap (Web development)
+    - Programming languages : C++, Java, Python
+    - Web Development - HTML/CSS/JS
+    - Data Analytics - Python and associated libraries, R language
     - Visualisation : PowerBI and Tableau 
     - Databases : MySQL, Microsoft Access
-    - I am also comfortable with the occasional use of vim/gedit
-    - Photoshop 
-    - Miscellaneous skills : A vast wealth of knowledge gained by reading tech articles / blogs, rooting an android phone, gaming, audio editing using Audacity and SEO
+    - I am also comfortable with the occasional use of vim/gedit.
+    - Adobe Lightroom and Photoshop.
+    - Miscellaneous skills : Googling, A vast wealth of knowledge gained by reading tech articles / blogs, audio editing using Audacity.
 
 # ⚡ Soft Skills
-    - Public Speaking
     - Quick Learner
+    - Public Speaking
     - Working with teams of various sizes, can also contribute individually.
 
 # ⚡Internship
@@ -29,8 +31,10 @@
 
 # ⚡Side Projects
  
-    - Built a NLP-based sentiment classifier using Twitter API, Bert Classifier and Python. Deployed using Streamlit.
-    - Created a Radiomics package for Cancer Detection through Image Processing, using Python. Extracted GLCM and Haralick Features from a dataset containing 10000 images.
+    - Built an OS kernel to display text to VGA buffer. Tested on QEMU on Ubuntu 20.04 LTS.
+    - Created a client-server communication application in C++ and Linux.
+    - Created a frontend interface for nmap tool, using PHP.
+    - Built a NLP-based sentiment classifier using Twitter API, Bert Classifier and Python.
     
 
 # ⚡Paper Publications
@@ -39,4 +43,4 @@
 
 # ⚡More About Me
 
-I am a passionate, ever curious developer.I have a pragmatic and unique way of looking at technological endeavours; I personally believe that coding is an art. I am looking for a job as a full stack developer or a data scientist at a company, where I can contribute my skills for the growth of the organisation, while simultaneously enhancing my career 
+I am a passionate, ever curious developer.I have a pragmatic and unique way of looking at technological endeavours; I personally believe that coding is an art. I am looking for a job at a company where I can contribute my skills for the growth of the organisation, learn new things and enhance my career.
