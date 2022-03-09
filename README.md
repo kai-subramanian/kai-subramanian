@@ -1,5 +1,5 @@
 # Hi there ! This is Kailash Subramanian👋 
-#### I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus. CGPA - 9.2
+#### I'm a student of integrated M.Tech, Software Engineering, VIT Chennai Campus. CGPA - 9.29
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language in less than a fortnight's time.
