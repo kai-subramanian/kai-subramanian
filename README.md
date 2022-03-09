@@ -27,7 +27,7 @@
 
 # ⚡Internship
 
-***March 2021 to June 2021*** <br> Worked with Velammal College of Engineering and Technology to build a Hospital Information System for Velammal Hospital, Madurai. Responsible for collecting requirements and coding the necessary frontend and backend modules for the Nursing module. Handled the additional responsibility of integrating the modules of of other team members(Operation Theatre, Laboratory, Outpatient and Cathlab) under a unified homepage. <br><b>Tech stack utilised - <br>HTML, CSS for frontend<br>Form validation using JS<br>PHP and Apache server for backend<br>MySQL for database</b>
+***March 2021 to June 2021*** (Remote) <br> Worked with Velammal College of Engineering and Technology to build a Hospital Information System for Velammal Hospital, Madurai. Responsible for collecting requirements and coding the necessary frontend and backend modules for the Nursing module. Handled the additional responsibility of integrating the modules of of other team members(Operation Theatre, Laboratory, Outpatient and Cathlab) under a unified homepage. <br><b>Tech stack utilised - <br>HTML, CSS for frontend<br>Form validation using JS<br>PHP and Apache server for backend<br>MySQL for database</b>
 
 # ⚡Side Projects
  
