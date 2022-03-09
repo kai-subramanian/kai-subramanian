@@ -15,7 +15,7 @@
     - Programming languages : C++, Java.
     - Web Development - HTML/CSS/JS
     - Data Analytics - Python and associated libraries, R language.
-    - Visualisation : PowerBI and Tableau 
+    - Visualisation :  Tableau 
     - Databases : MySQL.
     - I am also comfortable with the occasional use of vim/gedit.
     - Miscellaneous skills : Googling, A vast wealth of knowledge gained by reading tech articles / blogs, Watching tech related YouTube videos, Audio editing using Audacity.
