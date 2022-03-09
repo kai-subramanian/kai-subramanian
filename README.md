@@ -3,22 +3,22 @@
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language in less than a fortnight's time.
-    - Computer Networks, Operating Systems, Databases, BASH terminal and the Linux operating system.
+    - Computer Networks, Operating Systems, Databases, BASH terminal and Linux.
     - Theoretical aspects of Artificial Intelligence.
-    - Wireless Sensor Networks
+    - Software Management.
+    - Wireless Sensor Networks.
     - Data Structures and Algorithms.
     - Good experience with version control, specially Git and GitHub.
     - Familiar with variety of domains / business verticals. 
     
 # ⚡ Tech skills
-    - Programming languages : C++, Java, Python
+    - Programming languages : C++, Java.
     - Web Development - HTML/CSS/JS
-    - Data Analytics - Python and associated libraries, R language
+    - Data Analytics - Python and associated libraries, R language.
     - Visualisation : PowerBI and Tableau 
-    - Databases : MySQL, Microsoft Access
+    - Databases : MySQL.
     - I am also comfortable with the occasional use of vim/gedit.
-    - Adobe Lightroom and Photoshop.
-    - Miscellaneous skills : Googling, A vast wealth of knowledge gained by reading tech articles / blogs, audio editing using Audacity.
+    - Miscellaneous skills : Googling, A vast wealth of knowledge gained by reading tech articles / blogs, Watching tech related YouTube videos, Audio editing using Audacity.
 
 # ⚡ Soft Skills
     - Quick Learner
@@ -27,7 +27,7 @@
 
 # ⚡Internship
 
-***March 2021 to June 2021*** <br> Worked with Velammal College of Engineering and Technology to build a Hospital Information System for Velammal Hospital, Madurai. Responsible for collecting requirements, architecting the data flow,  crafting the database schema, coding the necessary frontend and backend modules for the Nursing module. Handled the additional responsibility of integrating the modules of of other team members(Operation Theatre, Laboratory, Outpatient and Cathlab) under a unified homepage. <br><b>Tech stack utilised - <br>HTML, CSS for frontend<br>PHP and Apache server for backend<br>MySQL for database</b>
+***March 2021 to June 2021*** <br> Worked with Velammal College of Engineering and Technology to build a Hospital Information System for Velammal Hospital, Madurai. Responsible for collecting requirements and coding the necessary frontend and backend modules for the Nursing module. Handled the additional responsibility of integrating the modules of of other team members(Operation Theatre, Laboratory, Outpatient and Cathlab) under a unified homepage. <br><b>Tech stack utilised - <br>HTML, CSS for frontend<br>Form validation using JS<br>PHP and Apache server for backend<br>MySQL for database</b>
 
 # ⚡Side Projects
  
@@ -47,4 +47,4 @@ To build a gaming PC with all the respective top-tier, maxed-out components. (CP
 
 # ⚡More About Me
 
-I am a passionate, ever curious developer.I have a pragmatic and unique way of looking at technological endeavours; I personally believe that coding is an art. I am looking for a job at a company where I can contribute my skills for the growth of the organisation, learn new things and enhance my career.
+I am a geeky and ever curious developer. I am also an Open Source enthusiast. I have a pragmatic and unique way of looking at technological endeavours;  I am looking for a job at a company where I can learn new things and contribute my skills for the growth of the organisation.
