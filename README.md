@@ -17,7 +17,7 @@
 
 # ⚡ Soft Skills
     - Quick Learner
-    - Public Speaking
+    - Empathetic and pragmatic communicator, with an interest in human psychology.
     - Working with teams of various sizes, can also contribute individually.
 
 # ⚡Internship
