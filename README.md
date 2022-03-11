@@ -37,7 +37,7 @@
 
 # ⚡ My Dream
 
-To build a gaming PC with all the respective top-tier, maxed-out components. (CPU, GPU, RAM, etc)
+To build a gaming PC with all the respective top-tier, maxed-out components :) 
 
 # ⚡More About Me
 
