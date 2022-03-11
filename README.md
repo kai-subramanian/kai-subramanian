@@ -11,7 +11,6 @@
     - Programming languages : Java, C/C++.
     - Web Development - HTML/CSS/JS/PHP.
     - Databases : MySQL.
-    - Enhancing photos using Adobe Lightroom
     - Machine Learning - Python and associated libraries, Tableau, R language
     - I am also comfortable with the occasional use of vim/gedit
     - Miscellaneous skills : Googling, A vast wealth of knowledge gained by reading tech articles / blogs, Watching tech related YouTube videos, Audio editing using Audacity.
@@ -42,4 +41,4 @@ To build a gaming PC with all the respective top-tier, maxed-out components. (CP
 
 # ⚡More About Me
 
-I am a geeky and ever curious developer. I am also an Open Source enthusiast. I have a pragmatic and unique way of looking at technological endeavours;  I am looking for a job at a company where I can learn new things and contribute my skills for the growth of the organisation.
+I am a geeky and ever curious developer. I am also an Open Source enthusiast; I love to hop between various Linux distros. I have a pragmatic and unique way of looking at technological endeavours;  I am looking for a job at a company where I can learn new things and contribute my skills for the growth of the organisation.
