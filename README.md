@@ -3,7 +3,7 @@
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language quickly.
-    - Computer Networks, Operating Systems, Databases and Linux.
+    - Computer Networks, Operating Systems, Data Analytics and Linux.
     - Good understanding of Requirements Engineering and Software Development Lifecycle.
     - Git and GitHub.
     
