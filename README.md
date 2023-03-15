@@ -1,14 +1,14 @@
 # Hi there ! This is Kailash 👋 
-#### Student, M.Tech (Int. 5 yrs) Software Engineering, VIT Chennai Campus. <br>CGPA - 9.28
+#### Student, M.Tech (Int. 5 yrs) Software Engineering, VIT Chennai Campus. <br>CGPA - 9.24
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language quickly.
-    - Computer Networks, Operating Systems, Data Analytics and Linux.
-    - Good understanding of Requirements Engineering and Software Development Lifecycle.
+    - AI, ML, Data Science, Networks, Operating Systems, Data Analytics and Linux.
+    - Good understanding of Requirements Engineering and Software Development Lifecycle, along with business acumen
     - Git and GitHub.
     
 # ⚡ Tech skills
-    - Programming languages : Java, C/C++.
+    - Programming languages : C/C++, Python
     - Web Development - HTML/CSS/JS/PHP.
     - Databases : MySQL.
     - Machine Learning - Python and associated libraries, Tableau, R language
@@ -30,6 +30,7 @@
     - Created a client-server chat application in Java.
     - Created a frontend interface for nmap tool, using PHP.
     - Developed a mini operating system kernel using C and Assembly to print "Hello World" to the VGA Buffer.
+    - EDA on Australian weather data, to predict rainfall for the future
     
 # ⚡Paper Publications
 
