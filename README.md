@@ -1,5 +1,5 @@
 # Hi there ! This is Kailash 👋 
-#### Student, M.Tech (Int. 5 yrs) Software Engineering, VIT Chennai Campus. <br>CGPA - 9.24
+#### Student, M.Tech (Int. 5 yrs) Software Engineering, VIT Chennai Campus. <br>CGPA - 9.38.
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language quickly.
