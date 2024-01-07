@@ -1,5 +1,5 @@
 # Hi there ! This is Kailash 👋 
-#### Associate Software Engineer at Genesys India | Masters in Software Engineering, VIT Chennai. <br>CGPA - 9.38.
+#### Associate Software Engineer at Genesys India | Masters in Software Engineering, VIT Chennai.
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language quickly.
@@ -45,4 +45,4 @@ To build a gaming PC with all the respective top-tier, maxed-out components :)
 
 # ⚡More About Me
 
-I am a geeky and ever curious developer. I am also an Open Source enthusiast; I love to hop between various Linux distros. I have a pragmatic and unique way of looking at technological endeavours;  I am looking for a job at a company where I can learn new things and contribute my skills for the growth of the organisation.
+I am a geeky and ever curious developer. I am also an Open Source enthusiast; I love to hop between various Linux distros. I have a pragmatic and unique way of looking at technological endeavours.
