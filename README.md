@@ -22,6 +22,8 @@
 
 # ⚡Internship
 
+***August 2022 to May 2023*** (Bangalore) <br> Interned at Intel Corporation, in the NCNG Ethernet SW team. Built a debugger library in C++, to provide the debug information in DWARF format. <br>T his library was later shipped to a Fortune 100 company. Personal contribution - Created the common C++ class for representing the debug information, and reduced code duplication.
+
 ***March 2021 to June 2021*** (Remote) <br> Interned at Velammal Engineering College, to develop a protoype app for Hospital Management System. Worked with a team of 5.<br> Personal Contribution - Created database table, frontend and backend code for Nursing module. <br>Languages used - HTML,CSS,JS,PHP.<br>Database used - MySQL.<br>Server used - Apache HTTP Server.
 
 # ⚡Side Projects
