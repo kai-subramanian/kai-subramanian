@@ -1,5 +1,5 @@
 # Hi there ! This is Kailash 👋 
-#### Associate Software Engineer at Genesys India | Masters in Software Engineering, VIT Chennai.
+#### Full Stack Developer @ Mechonyx | Masters in Software Engineering, VIT Chennai.
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language quickly.
