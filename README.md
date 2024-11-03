@@ -11,7 +11,7 @@
 # ⚡ Tech skills
     - Programming languages : C/C++, Python
     - Web Development - HTML/CSS/JS/PHP.
-    - Databases : MySQL.
+    - Databases : Postgres
     - Machine Learning - Python and associated libraries, Tableau, R language
     - Miscellaneous skills : Googling, A vast wealth of knowledge gained by reading tech articles / blogs, Watching tech related YouTube videos, Audio editing using Audacity.
 
