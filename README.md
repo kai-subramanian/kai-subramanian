@@ -21,7 +21,7 @@
     - Working with teams of various sizes, can also contribute individually.
 
 # ⚡Work Experience
-***July 2023 to Present*** (Chennai) <br> Associate Software Engineer at Genesys. Worked on Tenant Audit microservice, written using Python and hosted on AWS using CloudFormation, EC2, Docker, ECR and Auto Scaling Groups. Main tech stack - Python, C++ and AWS.
+***July 2023 to October 2024*** (Chennai) <br> Associate Software Engineer at Genesys. Worked on Tenant Audit microservice, written using Python and hosted on AWS using CloudFormation, EC2, Docker, ECR and Auto Scaling Groups. Main tech stack - Python, C++ and AWS.
 
 ***August 2022 to May 2023*** (Bangalore) <br> Interned at Intel Corporation, in the NCNG Ethernet SW team. Built a debugger library in C++, to provide the debug information in DWARF format. <br> This library was later shipped to a Fortune 100 company. <br> Personal contribution - Learnt a proprietary technology within a short timspan of 3 months and started pushing production-ready code in an ambiguous environment. Also fixed 2 bugs reported by customers within the compiler.
 
