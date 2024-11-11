@@ -33,7 +33,7 @@
     - Created a client-server chat application in Java.
     - Created a frontend interface for nmap tool, using PHP.
     - Developed a mini operating system kernel using C and Assembly to print "Hello World" to the VGA Buffer.
-    - Built linux drivers to learn more about kernel modules.
+    - Built linux device drivers to learn more about kernel modules.
     - EDA on Australian weather data, to predict rainfall for the future
     
 # ⚡Paper Publications
