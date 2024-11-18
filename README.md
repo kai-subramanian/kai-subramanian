@@ -35,6 +35,7 @@
     - Developed a mini operating system kernel using C and Assembly to print "Hello World" to the VGA Buffer.
     - Built linux device drivers to learn more about kernel modules.
     - EDA on Australian weather data, to predict rainfall for the future
+    - Created NodeJS and React applications.
     
 # ⚡Paper Publications
 
