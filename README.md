@@ -1,5 +1,5 @@
 # Hi there ! This is Kailash 👋 
-#### Full Stack Developer @ Mechonyx | Masters in Software Engineering, VIT Chennai.
+#### Software Engineer | Masters in Software Engineering, VIT Chennai.
 
 # ⚡ Core Skills
     - Agile and passionate learner; ability to gain working knowledge of any new framework / coding language quickly.
